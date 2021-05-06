@@ -10,11 +10,13 @@ Oiseaux
 Poissons
 Serpents et lézards
 Tortues
+Humain
 
 2) Mollusques
 Bivalves
 Céphalopodes
 Gastéropodes
+Escargots
 
 3) Arthropodes
 Crustacés
@@ -22,7 +24,6 @@ Insectes
 Myriapopes
 
 4) Annélide
-
 5) Cnidaire
 
 Ceci est la fiche de synthèse sur l'organisation du règne animal. Le mot animal est à prendre au sens le plus large, celui du règne. \n
